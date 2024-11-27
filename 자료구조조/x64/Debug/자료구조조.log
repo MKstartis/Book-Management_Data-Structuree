@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\01089\source\repos\자료구조조\자료구조조\main.c(27,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\01089\source\repos\자료구조조\자료구조조\main.c(120,108): warning C4098: 'rent_returnBook': 'void' 함수에서 값을 반환하고 있습니다.
+  자료구조조.vcxproj -> C:\Users\01089\source\repos\자료구조조\x64\Debug\자료구조조.exe
